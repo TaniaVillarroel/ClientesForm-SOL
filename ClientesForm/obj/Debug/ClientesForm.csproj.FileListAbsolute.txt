@@ -1,0 +1,9 @@
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\bin\Debug\ClientesForm.exe.config
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\obj\Debug\ClientesForm.csprojResolveAssemblyReference.cache
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\obj\Debug\ClientesForm.Form1.resources
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\obj\Debug\ClientesForm.Properties.Resources.resources
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\obj\Debug\ClientesForm.csproj.GenerateResource.Cache
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\bin\Debug\ClientesForm.exe
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\bin\Debug\ClientesForm.pdb
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\obj\Debug\ClientesForm.exe
+C:\Users\brend\Desktop\lab daf\ClientesForm\ClientesForm\obj\Debug\ClientesForm.pdb
